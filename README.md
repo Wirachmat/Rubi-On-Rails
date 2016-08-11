@@ -6,4 +6,4 @@ find Ruby or Rails
 Dropdown
 Interactive Ruby
 And then you can start editing The Ruby
-Ruby is an infrastructure ( view Bitnami cloud ) , biside other sistem , like as : Wordpress, Joomla, PHP Blog, etc.
+Ruby is an infrastructure ( view Bitnami cloud ) , beside other sistem , like as : Wordpress, Joomla, PHP Blog, etc.
